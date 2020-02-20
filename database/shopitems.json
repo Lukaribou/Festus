@@ -1,0 +1,16 @@
+{
+    "coucou": {
+        "name": "coucou",
+        "price": 99,
+        "db_name": "coucou",
+        "only_one": false,
+        "description": "test"
+    },
+    "pass_iris": {
+        "name": "Pass Iris",
+        "price": 400,
+        "db_name": "pass_iris",
+        "only_one": true,
+        "description": "Permet d'utiliser les messages Iris"
+    }
+}

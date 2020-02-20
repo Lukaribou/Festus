@@ -1,0 +1,1 @@
+{ "prefix": "=", "silence": false, "channelLogs": "id", "channelLvl": "id", "lock": false, "birthdayChannel": "id", "categoriesRP": ["id", "id", "id"], "ownerId": "id", "firewallRole": "id", "joinLeaveChan": "id" }

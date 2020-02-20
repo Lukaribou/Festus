@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "pretty": true,
+        "declaration": false,
+        "sourceMap": true,
+        "outDir": "./out",
+        "allowJs": true
+    }
+}

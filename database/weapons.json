@@ -1,0 +1,57 @@
+{
+    "wood_sword": {
+        "name": "wood_sword",
+        "fr_name": "Epée en bois",
+        "damages": {
+            "min": 5,
+            "max": 10
+        },
+        "classe": "hoplite",
+        "rank": 1,
+        "price": 10
+    },
+    "rainbow_bow": {
+        "name": "rainbow_bow",
+        "fr_name": "Arkenciel",
+        "damages": {
+            "min": 120,
+            "max": 300
+        },
+        "classe": "archer",
+        "rank": 6,
+        "price": 2500
+    },
+    "rainbow_knife": {
+        "name": "rainbow_knife",
+        "fr_name": "Arkençiague",
+        "damages": {
+            "min": 120,
+            "max": 300
+        },
+        "classe": "assassin",
+        "rank": 5,
+        "price": 2400
+    },
+    "dague_rouillee": {
+        "name": "dague_rouillee",
+        "fr_name": "Dague rouillée",
+        "damages": {
+            "min": 7,
+            "max": 14
+        },
+        "classe": "assassin",
+        "rank": 1,
+        "price": 10
+    },
+    "wood_bow": {
+        "name": "wood_bow",
+        "fr_name": "Arc en bois",
+        "damages": {
+            "min": 6,
+            "max": 12
+        },
+        "classe": "archer",
+        "rank": 1,
+        "price": 10
+    }
+}
